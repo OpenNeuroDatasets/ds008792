@@ -52,7 +52,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
-      - name: Petr Hlustik
+      - name: Hlustik Petr
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -77,7 +77,7 @@ data:
         nameType: Personal
       - name: Ema Marta Lorková
         nameType: Personal
-      - name: Petr Hlustik
+      - name: Hlustik Petr
         nameType: Personal
         nameIdentifiers: *ref_0
     descriptions:
