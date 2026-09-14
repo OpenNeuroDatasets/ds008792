@@ -58,6 +58,16 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 7
+      - name: Tomáš Slavíček
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-2951-1029
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 8
     creators:
       - name: Mikl Michal
         nameType: Personal
@@ -75,6 +85,9 @@ data:
       - name: Kateřina Ingrová
         nameType: Personal
         nameIdentifiers: *ref_1
+      - name: Tomáš Slavíček
+        nameType: Personal
+        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
