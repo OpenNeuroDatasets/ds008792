@@ -48,6 +48,16 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 6
+      - name: Kateřina Ingrová
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0009-0002-3521-2823
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 7
     creators:
       - name: Mikl Michal
         nameType: Personal
@@ -62,6 +72,9 @@ data:
       - name: Petr Hluštík
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Kateřina Ingrová
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
