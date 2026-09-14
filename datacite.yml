@@ -3,78 +3,81 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Petr Hluštík
+      - name: Michal Mikl
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0000-0002-1951-0671
+          - nameIdentifier: https://orcid.org/0000-0003-1190-346X
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
-      - name: Martin Gajdoš
+      - name: Petr Hluštík
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: []
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0002-1951-0671
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Radek Mareček
+      - name: Martin Gajdoš
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Ema Marta Lorková
+      - name: Radek Mareček
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
+      - name: Ema Marta Lorková
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
       - name: Kateřina Ingrová
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_1
+        nameIdentifiers: &ref_2
           - nameIdentifier: https://orcid.org/0009-0002-3521-2823
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 5
+        order: 6
       - name: Tomáš Slavíček
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_2
+        nameIdentifiers: &ref_3
           - nameIdentifier: https://orcid.org/0000-0002-2951-1029
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 6
+        order: 7
       - name: Kovářová Anežka
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 7
-      - name: Michal Mikl
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_3
-          - nameIdentifier: https://orcid.org/0000-0003-1190-346X
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
         order: 8
     creators:
-      - name: Petr Hluštík
+      - name: Michal Mikl
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Petr Hluštík
+        nameType: Personal
+        nameIdentifiers: *ref_1
       - name: Martin Gajdoš
         nameType: Personal
       - name: Radek Mareček
@@ -83,15 +86,12 @@ data:
         nameType: Personal
       - name: Kateřina Ingrová
         nameType: Personal
-        nameIdentifiers: *ref_1
+        nameIdentifiers: *ref_2
       - name: Tomáš Slavíček
         nameType: Personal
-        nameIdentifiers: *ref_2
+        nameIdentifiers: *ref_3
       - name: Kovářová Anežka
         nameType: Personal
-      - name: Michal Mikl
-        nameType: Personal
-        nameIdentifiers: *ref_3
     descriptions:
       - description: N/A
         descriptionType: Abstract
