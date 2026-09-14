@@ -31,28 +31,14 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Slavicek Tomas
+      - name: Ema Marta Lorková
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Ingrova Katerina
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
-      - name: Lorkova Ema Marta
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
-      - name: Hlustik Petr
+      - name: Petr Hluštík
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -61,7 +47,7 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 8
+        order: 6
     creators:
       - name: Mikl Michal
         nameType: Personal
@@ -71,13 +57,9 @@ data:
         nameType: Personal
       - name: Marecek Radek
         nameType: Personal
-      - name: Slavicek Tomas
+      - name: Ema Marta Lorková
         nameType: Personal
-      - name: Ingrova Katerina
-        nameType: Personal
-      - name: Lorkova Ema Marta
-        nameType: Personal
-      - name: Hlustik Petr
+      - name: Petr Hluštík
         nameType: Personal
         nameIdentifiers: *ref_0
     descriptions:
