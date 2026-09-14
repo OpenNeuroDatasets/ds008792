@@ -3,13 +3,6 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Mikl Michal
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 1
       - name: Petr Hluštík
         givenName: ''
         familyName: ''
@@ -19,28 +12,28 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 2
+        order: 1
       - name: Martin Gajdoš
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 3
+        order: 2
       - name: Radek Mareček
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 4
+        order: 3
       - name: Ema Marta Lorková
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 5
+        order: 4
       - name: Kateřina Ingrová
         givenName: ''
         familyName: ''
@@ -50,7 +43,7 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 6
+        order: 5
       - name: Tomáš Slavíček
         givenName: ''
         familyName: ''
@@ -60,17 +53,15 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 7
+        order: 6
       - name: Kovářová Anežka
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 8
+        order: 7
     creators:
-      - name: Mikl Michal
-        nameType: Personal
       - name: Petr Hluštík
         nameType: Personal
         nameIdentifiers: *ref_0
