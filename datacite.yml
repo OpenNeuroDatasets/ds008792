@@ -52,6 +52,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
+      - name: Petr Hlustik
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-1951-0671
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 8
     creators:
       - name: Mikl Michal
         nameType: Personal
@@ -67,6 +77,9 @@ data:
         nameType: Personal
       - name: Ema Marta Lorková
         nameType: Personal
+      - name: Petr Hlustik
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
