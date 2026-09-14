@@ -61,6 +61,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
+      - name: Michal Mikl
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_3
+          - nameIdentifier: https://orcid.org/0000-0003-1190-346X
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 8
     creators:
       - name: Petr Hluštík
         nameType: Personal
@@ -79,6 +89,9 @@ data:
         nameIdentifiers: *ref_2
       - name: Kovářová Anežka
         nameType: Personal
+      - name: Michal Mikl
+        nameType: Personal
+        nameIdentifiers: *ref_3
     descriptions:
       - description: N/A
         descriptionType: Abstract
