@@ -10,21 +10,24 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Kovarova Anezka
+      - name: Petr Hluštík
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: []
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-1951-0671
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Gajdos Martin
+      - name: Martin Gajdoš
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Marecek Radek
+      - name: Radek Mareček
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -38,16 +41,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Petr Hluštík
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0000-0002-1951-0671
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 6
       - name: Kateřina Ingrová
         givenName: ''
         familyName: ''
@@ -57,7 +50,7 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 7
+        order: 6
       - name: Tomáš Slavíček
         givenName: ''
         familyName: ''
@@ -67,27 +60,34 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 7
+      - name: Kovarova Anezka
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 8
     creators:
       - name: Mikl Michal
         nameType: Personal
-      - name: Kovarova Anezka
-        nameType: Personal
-      - name: Gajdos Martin
-        nameType: Personal
-      - name: Marecek Radek
-        nameType: Personal
-      - name: Ema Marta Lorková
-        nameType: Personal
       - name: Petr Hluštík
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Martin Gajdoš
+        nameType: Personal
+      - name: Radek Mareček
+        nameType: Personal
+      - name: Ema Marta Lorková
+        nameType: Personal
       - name: Kateřina Ingrová
         nameType: Personal
         nameIdentifiers: *ref_1
       - name: Tomáš Slavíček
         nameType: Personal
         nameIdentifiers: *ref_2
+      - name: Kovarova Anezka
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract
