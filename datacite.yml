@@ -61,7 +61,7 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 7
-      - name: Kovarova Anezka
+      - name: Kovářová Anežka
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -86,7 +86,7 @@ data:
       - name: Tomáš Slavíček
         nameType: Personal
         nameIdentifiers: *ref_2
-      - name: Kovarova Anezka
+      - name: Kovářová Anežka
         nameType: Personal
     descriptions:
       - description: N/A
