@@ -23,21 +23,21 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Martin Gajdoš
+      - name: Ema Marta Lorková
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Radek Mareček
+      - name: Martin Gajdoš
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Ema Marta Lorková
+      - name: Radek Mareček
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -71,6 +71,27 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 8
+      - name: Ondřej Burkot
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Monika Jasenská
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 10
+      - name: Klára Balážová
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 11
     creators:
       - name: Michal Mikl
         nameType: Personal
@@ -78,11 +99,11 @@ data:
       - name: Petr Hluštík
         nameType: Personal
         nameIdentifiers: *ref_1
+      - name: Ema Marta Lorková
+        nameType: Personal
       - name: Martin Gajdoš
         nameType: Personal
       - name: Radek Mareček
-        nameType: Personal
-      - name: Ema Marta Lorková
         nameType: Personal
       - name: Kateřina Ingrová
         nameType: Personal
@@ -91,6 +112,12 @@ data:
         nameType: Personal
         nameIdentifiers: *ref_3
       - name: Kovářová Anežka
+        nameType: Personal
+      - name: Ondřej Burkot
+        nameType: Personal
+      - name: Monika Jasenská
+        nameType: Personal
+      - name: Klára Balážová
         nameType: Personal
     descriptions:
       - description: N/A
