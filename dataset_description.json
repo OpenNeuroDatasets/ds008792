@@ -16,7 +16,8 @@
     "Acknowledgements": "The work was supported by the Grant Agency of the Czech Ministry of Health (grant number NU23-08-00212). We acknowledge the core facility MAFIL supported by the Czech-BioImaging large RI project (LM2023050 funded by MEYS CR), part of the Euro-BioImaging (www.eurobioimaging.eu) ALM and Multimodal Imaging Node (Brno, CZ), for their support with obtaining scientific data presented in this paper.",
     "HowToAcknowledge": "We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050), for their support with obtaining scientific data presented in this paper.",
     "Funding": [
-        "LM2023050"
+        "LM2023050",
+        "NU23-08-00212"
     ],
     "ReferencesAndLinks": [
         "https://mafil.ceitec.cz"
