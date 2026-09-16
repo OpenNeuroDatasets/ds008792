@@ -1,31 +1,31 @@
 {
- "Name": "Advanced approaches to measuring and processing fMRI data with regard to benefits in neurological research and diagnostics",
- "BIDSVersion": "1.8.0",
- "DatasetType": "raw",
- "Authors": [
-  "Mikl Michal",
-  "Kovarova Anezka",
-  "Gajdos Martin",
-  "Marecek Radek",
-  "Slavicek Tomas",
-  "Ingrova Katerina",
-  "Ema Marta Lorková",
-  "Petr Hluštík"
- ],
- "License": "CC0",
- "Acknowledgements": "The work was supported by the Grant Agency of the Czech Ministry of Health (grant number NU23-08-00212). We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050).",
- "HowToAcknowledge": "We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050), for their support with obtaining scientific data presented in this paper.", 
- "Funding": [
-  "LM2023050"
-  ],
- "ReferencesAndLinks": [
-  "https://mafil.ceitec.cz"
- ],
- "DatasetDOI": "doi:10/openneuro.ds002696.v1.0.0", 
- "GeneratedBy": [
-  {
-   "Name": "mafil_dicom2preBIDS",
-   "Version": "v1.22"
-  }
- ]
+    "Name": "Test-retest accelerated single-echo and multi-echo fMRI dataset for reliability and reproducibility assesment",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Mikl Michal",
+        "Kovarova Anezka",
+        "Gajdos Martin",
+        "Marecek Radek",
+        "Slavicek Tomas",
+        "Ingrova Katerina",
+        "Ema Marta Lorková",
+        "Petr Hluštík"
+    ],
+    "License": "CC0",
+    "Acknowledgements": "The work was supported by the Grant Agency of the Czech Ministry of Health (grant number NU23-08-00212). We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050).",
+    "HowToAcknowledge": "We acknowledge the core facility MAFIL of CEITEC supported by the Czech-BioImaging large RI project (LM2023050), for their support with obtaining scientific data presented in this paper.",
+    "Funding": [
+        "LM2023050"
+    ],
+    "ReferencesAndLinks": [
+        "https://mafil.ceitec.cz"
+    ],
+    "DatasetDOI": "doi:10/openneuro.ds002696.v1.0.0",
+    "GeneratedBy": [
+        {
+            "Name": "mafil_dicom2preBIDS",
+            "Version": "v1.22"
+        }
+    ]
 }
