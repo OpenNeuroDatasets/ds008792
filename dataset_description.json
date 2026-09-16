@@ -1,5 +1,5 @@
 {
-    "Name": "Test-retest accelerated single-echo and multi-echo fMRI dataset for reliability and reproducibility assesment",
+    "Name": "Test-retest accelerated single-echo and multi-echo fMRI dataset for reliability and reproducibility assessment",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
     "Authors": [
