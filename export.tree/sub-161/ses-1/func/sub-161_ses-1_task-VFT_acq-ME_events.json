@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds relative to the start of the scan",
+    "Units": "s",
+    "LongName": "Event onset"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds",
+    "Units": "s",
+    "LongName": "Event duration"
+  },
+  "trial_type": {
+    "Description": "Type of trial",
+    "Levels": {
+      "active block": "Performing a verbal fluency task. Participants keep their eyes closed and internally generate words starting with a given letter, presented auditorily at the beginning of the block, until the 'Stop' command.",
+      "baseline": "Rest condition with eyes closed and no task performed."
+    },
+    "LongName": "Trial type"
+  }
+}
