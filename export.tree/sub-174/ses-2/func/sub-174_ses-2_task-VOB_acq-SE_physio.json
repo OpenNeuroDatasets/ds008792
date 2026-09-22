@@ -1,0 +1,11 @@
+{
+ "StartTime": 0,
+ "SamplingFrequency": 400,
+ "Columns": [
+  "ECG1",
+  "ECG2",
+  "ECG3",
+  "ECG4",
+  "RESP"
+ ]
+}
