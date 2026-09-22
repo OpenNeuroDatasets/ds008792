@@ -1,9 +1,0 @@
-{
- "StartTime": 0,
- "SamplingFrequency": 5000,
- "Columns": [
-  "respiration belt",
-  "ECG"
- ]
-}
-
