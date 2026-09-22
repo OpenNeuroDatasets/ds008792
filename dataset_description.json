@@ -3,14 +3,17 @@
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
     "Authors": [
-        "Mikl Michal",
-        "Kovarova Anezka",
-        "Gajdos Martin",
-        "Marecek Radek",
-        "Slavicek Tomas",
-        "Ingrova Katerina",
+        "Michal Mikl",
+        "Petr Hluštík",
         "Ema Marta Lorková",
-        "Petr Hluštík"
+        "Martin Gajdoš",
+        "Radek Mareček",
+        "Kateřina Ingrová",
+        "Tomáš Slavíček",
+        "Kovářová Anežka",
+        "Ondřej Burkot",
+        "Monika Jasenská",
+        "Klára Balážová"
     ],
     "License": "CC0",
     "Acknowledgements": "The work was supported by the Grant Agency of the Czech Ministry of Health (grant number NU23-08-00212). We acknowledge the core facility MAFIL supported by the Czech-BioImaging large RI project (LM2023050 funded by MEYS CR), part of the Euro-BioImaging (www.eurobioimaging.eu) ALM and Multimodal Imaging Node (Brno, CZ), for their support with obtaining scientific data presented in this paper.",
@@ -23,7 +26,7 @@
         "https://mafil.ceitec.cz",
         "https://doi.org/10.58071/dda5-5744"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008792.v1.0.0",
+    "DatasetDOI": "doi:10/openneuro.ds002696.v1.0.0",
     "GeneratedBy": [
         {
             "Name": "mafil_dicom2preBIDS",
