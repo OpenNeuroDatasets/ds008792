@@ -1,0 +1,10 @@
+{
+ "StartTime": 0,
+ "SamplingFrequency": 5000,
+ "Columns": [
+  "EKG1",
+  "EKG2",
+  "respiration belt",
+  "KO"
+ ]
+}
